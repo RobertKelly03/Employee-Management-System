@@ -1,24 +1,29 @@
 {
-    "name": "12-employee-management-system",
-    "version": "1.0.0",
-    "description": "",
-    "main": "app.js",
-    "dependencies": {
-      "chalk": "^4.1.0",
-      "console.table": "^0.10.0",
-      "inquirer": "^7.1.0",
-      "mysql": "^2.18.1",
-      "promisify": "0.0.3"
-    },
-    "devDependencies": {},
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tressapark/12-employee-management-system.git"
-    },
-    "author": "",
-    "license": "ISC"
-  }
+  "name": "homework-12",
+  "version": "1.0.0",
+  "description": "Employee Management System",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.3",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ana199816/homework-12"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ana199816/homework-12/issues"
+  },
+  "homepage": "https://github.com/Ana199816/homework-12/blob/master/README.md"
+}
