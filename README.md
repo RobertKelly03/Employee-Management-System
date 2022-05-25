@@ -16,6 +16,9 @@ Requirments
 This application utilizes several node modules. Run the following npm install accordingly
 
 npm install mysql inquirer console-table
+![node](https://user-images.githubusercontent.com/55413812/170153173-dc4ef3aa-ee50-4bff-99fa-029b318f21f3.png)
+![node2](https://user-images.githubusercontent.com/55413812/170153181-9e8eb0f0-c4a6-4c01-8af6-c62f4b7f71ff.png)
+![node4](https://user-images.githubusercontent.com/55413812/170153182-daaa10a2-84b6-44e3-84e3-02423e8ad076.png)
 
 License
 MIT License
